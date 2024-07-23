@@ -10,7 +10,7 @@
         <TextBlock HorizontalAlignment="Center"
                    VerticalAlignment="Center"
                    FontSize="20">
-            Drag and drop image files here to convert to JPG.
+            Drag and drop files here to convert.
         </TextBlock>
         <ProgressBar x:Name="ConversionProgressBar"
                      Height="20"
@@ -19,7 +19,7 @@
         <TextBlock x:Name="StatusTextBlock"
                    VerticalAlignment="Top"
                    Margin="10,30,10,10"
-                   Text="Drop images here to convert them."/>
+                   Text="Drop here files to start .."/>
     </Grid>
 
 </Window>
