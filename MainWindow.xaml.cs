@@ -5,9 +5,8 @@ using System.Linq;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Windows;
-using System.Windows.Controls;
 
-namespace ImageConverterApp
+namespace ConverterApp
 {
     public partial class MainWindow : Window
     {
@@ -56,11 +55,11 @@ namespace ImageConverterApp
         {
             return Task.Run(() =>
             {
-                string outputDirectory = Path.Combine(Path.GetDirectoryName(inputFile), "output");
+                string outputDirectory = Path.Combine(Path.GetDirectoryName(inputFile), "ImgOutput");
                 Directory.CreateDirectory(outputDirectory); // Ensure the output directory exists
 
                 string outputFile = Path.Combine(outputDirectory, Path.GetFileNameWithoutExtension(inputFile) + ".jpg");
-                string arguments = $"-i \"{inputFile}\" \"{outputFile}\"";
+                string arguments = $"-i -y \"{inputFile}\" \"{outputFile}\"";
 
                 ProcessStartInfo startInfo = new ProcessStartInfo
                 {

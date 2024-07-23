@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g0KSZyspLmg=",
+  "dgSpecHash": "I5Mgd2ZL8xI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Avri !\\Desktop\\ConverterApp\\ConverterApp.csproj",
+  "projectFilePath": "c:\\Users\\Avri !\\Desktop\\ConverterApp\\ConverterApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Avri !\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
     "C:\\Users\\Avri !\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Avri !\\Desktop\\ConverterApp\\ConverterApp.csproj": {}
+    "c:\\Users\\Avri !\\Desktop\\ConverterApp\\ConverterApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Avri !\\Desktop\\ConverterApp\\ConverterApp.csproj": {
+    "c:\\Users\\Avri !\\Desktop\\ConverterApp\\ConverterApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Avri !\\Desktop\\ConverterApp\\ConverterApp.csproj",
+        "projectUniqueName": "c:\\Users\\Avri !\\Desktop\\ConverterApp\\ConverterApp.csproj",
         "projectName": "ConverterApp",
-        "projectPath": "C:\\Users\\Avri !\\Desktop\\ConverterApp\\ConverterApp.csproj",
+        "projectPath": "c:\\Users\\Avri !\\Desktop\\ConverterApp\\ConverterApp.csproj",
         "packagesPath": "C:\\Users\\Avri !\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Avri !\\Desktop\\ConverterApp\\obj\\",
+        "outputPath": "c:\\Users\\Avri !\\Desktop\\ConverterApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Avri !\\AppData\\Roaming\\NuGet\\NuGet.Config"
